@@ -4,9 +4,6 @@ Silvia Andreani
 
 the paper that the swc course intends to write in 2023
 
-
-=======
-
 Deeksha S, university of wuerzburg
 
 Nora T.
@@ -14,7 +11,6 @@ Nora T.
 Anna Z.
 
 the paper that the swc course intends to write in 2023
->>>>>>> cb742cb91585045aaae8b02511254e175e3f3155
 ## Introduction
 
 ## Experiment
