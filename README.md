@@ -3,7 +3,7 @@ Nora T., Florian Goth, Clemens S., Madhura Sapre,Silvia Andreani,Annerose Wirsch
 
 the paper that the swc course intends to write in 2023
 
-<<<<<<< HEAD
+
 
 =======
 
